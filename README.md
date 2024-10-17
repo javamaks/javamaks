@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Messenger on Qt library**
 
-- 🌱 I’m currently learning **OpenCV, SFML, Qt**
+- 🌱 I’m currently learning **STM32, Embedded programming, OpenCV, SFML, Qt**
 
 - 📫 How to reach me **javamaks1@gmail.com**
 
